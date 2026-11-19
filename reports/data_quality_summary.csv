@@ -1,0 +1,11 @@
+dataset,rows,columns,missing_cells,duplicate_rows,memory_usage_kb,status
+01_fund_master.csv,40,15,0,0,25.94,SUCCESS
+02_nav_history.csv,46000,3,0,0,3369.27,SUCCESS
+03_aum_by_fund_house.csv,90,5,0,0,13.19,SUCCESS
+04_monthly_sip_inflows.csv,48,6,12,0,4.63,SUCCESS
+05_category_inflows.csv,144,3,0,0,17.33,SUCCESS
+06_industry_folio_count.csv,21,6,0,0,2.1,SUCCESS
+07_scheme_performance.csv,40,19,0,0,17.2,SUCCESS
+08_investor_transactions.csv,32778,13,0,0,18624.46,SUCCESS
+09_portfolio_holdings.csv,322,8,0,0,85.14,SUCCESS
+10_benchmark_indices.csv,8050,3,0,0,995.15,SUCCESS

@@ -1,0 +1,24 @@
+BLUESTOCK MUTUAL FUND ANALYTICS
+DAY 1 - DATA QUALITY NOTES
+
+Dataset: 04_monthly_sip_inflows.csv
+
+Total records: 48
+Total columns: 6
+Missing values: 12
+Duplicate rows: 0
+
+OBSERVATION:
+The yoy_growth_pct column contains 12 missing
+values from January 2022 to December 2022.
+
+All other columns contain complete data.
+
+ACTION TAKEN:
+Missing values are retained as NaN.
+No zero values or estimated growth rates
+have been inserted.
+
+STATUS:
+Dataset loaded successfully.
+Missing values documented for further analysis.
